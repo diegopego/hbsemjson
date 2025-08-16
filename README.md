@@ -1,6 +1,5 @@
 
 ```
-mkdir -p .harboursems
 make semantic-json-dummy -j
 ./bin/hb-semjson-dummy
 ```
